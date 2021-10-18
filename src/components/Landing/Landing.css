@@ -75,6 +75,11 @@
   margin-bottom: -0.85rem;
   opacity: 0.8;
 }
+@media screen and (max-width:592px){
+  .lcr--content h3{
+    text-align:center
+  }
+}
 
 .lcr--content h1 {
   font-weight: 600;

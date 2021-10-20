@@ -99,6 +99,10 @@
         position: relative;
         margin-top: 4rem;
     }
+    .projects--viewAll button {
+        
+        margin-bottom: 3rem;
+    }
     .projects--viewAll a {
         position: absolute;
         left: 50%;

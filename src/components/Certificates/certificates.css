@@ -23,7 +23,7 @@
 }
 @media (max-width: 60em) {
     .grid-container {
-        padding: 3rem;
+        padding: 3rem 0.5rem;
    }
 }
 .grid {

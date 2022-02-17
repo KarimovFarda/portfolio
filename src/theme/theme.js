@@ -9,7 +9,7 @@ export const blueThemeLight = {
     primary80: '#545fc4cc',
     primary50: '#545fc480',
     primary30: '#545fc44d',
-    secondary: '#eaeaea',
+    secondary: '#ffffff',
     secondary70: '#eaeaeab3',
     secondary50: '#eaeaea80',
     tertiary: '#212121',

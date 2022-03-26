@@ -1,9 +1,11 @@
 
  .certificate-container{
     background-color: transparent;
+    display:none !important;
 
  }
  
+
  .certificate-container > h1{
     text-align: center;
     font-size: 3.5rem;

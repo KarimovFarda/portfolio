@@ -9,7 +9,7 @@ function Certification(){
     return (
       <>
               
-        <div className="certificate-container ">
+        <div className="certificate-container " style="display:none !important;">
         <h1> Certificates </h1>
         <div className="grid-container">
         <div className="grid">

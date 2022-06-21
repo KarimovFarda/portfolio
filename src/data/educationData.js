@@ -1,7 +1,7 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Azerbaijan State Oil and Industry University',
+        institution: 'Azerbaijan State Oil and Industry Universit',
         course: 'Computer Science',
         startYear: '2018 September',
         endYear: '2022 June'
